@@ -12,5 +12,19 @@ class Dog
     @name
   end
   
-  
+  def initialize(breed)
+    @breed = breed
+      if @breed = ()
+        return "Mutt"
+      end
+    end
+    
+    def breed=(breed)
+      @breed = breed
+    def
+    
+    def breed
+      @breed
+    end
+    
 end
