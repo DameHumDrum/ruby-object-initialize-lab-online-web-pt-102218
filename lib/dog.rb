@@ -3,6 +3,7 @@ class Dog
     @name = name
       if name = ()
         return "Mutt"
+      end
   end
   
   def name=(name)
