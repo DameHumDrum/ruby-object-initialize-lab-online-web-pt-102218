@@ -1,7 +1,8 @@
 class Dog
   def initialize(name)
     @name = name
-      if name != 
+      if name = ()
+        return "Mutt"
   end
   
   def name=(name)
